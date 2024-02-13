@@ -47,11 +47,6 @@ ul li a{
     font-size: large;
     color: black;
 }
-/* .nav-bar ul li a{
-    position: relative;
-    color: black;
-    padding: 5px 0;
-} */
 /* .nav-bar ul li a:before{
     position: absolute;
     content: '';
