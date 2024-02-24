@@ -47,18 +47,6 @@ ul li a{
     font-size: large;
     color: black;
 }
-/* .nav-bar ul li a:before{
-    position: absolute;
-    content: '';
-    left: 0;
-    bottom: 0;
-    height: 3px;
-    width: 100%;
-    background: rgb(0, 0, 0);
-    transform: scaleX(0);
-    transform-origin: right;
-    transition: transform .4s linear;
-}
 nav ul li a:hover:before{
     transform: scaleX(1);
     transform-origin: left;
