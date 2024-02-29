@@ -51,9 +51,7 @@ nav ul li a:hover:before{
     transform: scaleX(1);
     transform-origin: left;
 } */
-/* ul{
-    list-style-type: none;
-}
+
 .nav{
     font-size: large;
     text-decoration: none;
